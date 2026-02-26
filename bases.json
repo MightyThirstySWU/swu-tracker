@@ -20,7 +20,15 @@
     "epic": false,
     "faction": "neutral"
   }
+  {
+    "name": "Fortress Vader",
+    "health": 28,
+    "image": "fortress_vader.png",
+    "epic": false,
+    "faction": "villainy"
+  },
 ]
+
 
 
 
