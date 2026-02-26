@@ -4,7 +4,7 @@ let currentHealth = 0;
 let epicUsed = false;
 
 async function loadBases() {
-  const res = await fetch("bases.json");
+  const res = await fetch("bases.json?version=" + Date.now());
   bases = await res.json();
   renderBaseGrid();
 }
@@ -81,3 +81,4 @@ document.getElementById("epic-btn").onclick = () => {
 document.getElementById("back-btn").onclick = () => showScreen("base-select");
 
 loadBases();
+
