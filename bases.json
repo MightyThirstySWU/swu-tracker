@@ -2,7 +2,7 @@
   {
     "name": "Fortress Vader",
     "health": 28,
-    "image": "fortress_vader.png",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/639991_in_1000x1000.jpg",
     "epic": false,
     "faction": "villainy"
   },
@@ -21,4 +21,5 @@
     "faction": "neutral"
   }
 ]
+
 
