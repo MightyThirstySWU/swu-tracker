@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Fortress Vader",
+    "health": 30,
+    "image": "fortress_vader.png",
+    "epic": true,
+    "faction": "villainy"
+  },
+  {
+    "name": "Echo Base",
+    "health": 30,
+    "image": "echo_base.png",
+    "epic": false,
+    "faction": "heroism"
+  },
+  {
+    "name": "Jabba's Palace",
+    "health": 30,
+    "image": "jabbas_palace.png",
+    "epic": false,
+    "faction": "neutral"
+  }
+]

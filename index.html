@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SWU Base Tracker</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div id="base-select" class="screen">
+    <h1>Select Your Base</h1>
+    <div id="base-grid"></div>
+  </div>
+
+  <div id="tracker" class="screen hidden">
+    <button id="back-btn">Back</button>
+    <h2 id="base-name"></h2>
+    <img id="base-image" alt="Base Image">
+
+    <div id="health-container">
+      <button id="minus">-</button>
+      <span id="health"></span>
+      <button id="plus">+</button>
+    </div>
+
+    <button id="reset">Reset Health</button>
+
+    <div id="epic-container" class="hidden">
+      <h3>Epic Action</h3>
+      <button id="epic-btn">Not Used</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
