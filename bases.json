@@ -19,15 +19,16 @@
     "image": "jabbas_palace.png",
     "epic": false,
     "faction": "neutral"
-  }
+  },
   {
-    "name": "Fortress Vader",
-    "health": 28,
-    "image": "fortress_vader.png",
+    "name": "Data Vault",
+    "health": 33,
+    "image": "data_vault.png",
     "epic": false,
-    "faction": "villainy"
+    "faction": "neutral"
   },
 ]
+
 
 
 
