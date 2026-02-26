@@ -1,9 +1,9 @@
 [
   {
     "name": "Fortress Vader",
-    "health": 30,
+    "health": 28,
     "image": "fortress_vader.png",
-    "epic": true,
+    "epic": false,
     "faction": "villainy"
   },
   {
@@ -21,3 +21,4 @@
     "faction": "neutral"
   }
 ]
+
