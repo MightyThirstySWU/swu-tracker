@@ -26,8 +26,16 @@
     "image": "data_vault.png",
     "epic": false,
     "faction": "neutral"
+  },
+  {
+    "name": "Colossus",
+    "health": 35,
+    "image": "colossus.png",
+    "epic": false,
+    "faction": "neutral"
   }
 ]
+
 
 
 
